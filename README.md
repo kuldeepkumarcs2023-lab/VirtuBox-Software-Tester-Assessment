@@ -6,7 +6,7 @@
 - **Email:** kuldeep.kumar.cs.2023@mitmeerut.ac.in
 - **Contact:** 9162759948
 - **Branch:** B.Tech CSE
-- **College:** MIET Meerut
+- **College:** MIT Meerut
 
 ## Assessment Overview
 
